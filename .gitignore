@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+
+# Vite
+frontend/dist/
+dist/
+
+# Redis
+dump.rdb
+
+# Neo4j
+data/databases/
+data/transactions/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Secrets / Keys
+*.pem
+*.key
+*.crt
+
+# Misc
+coverage.xml
+.cache/

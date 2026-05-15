@@ -1,0 +1,95 @@
+{
+  "communities": {
+    "0": [
+      "cleaned_apple_supply_chain_apple",
+      "cleaned_apple_supply_chain_apple_supplier_code_of_conduct",
+      "cleaned_apple_supply_chain_daisy",
+      "cleaned_apple_supply_chain_material_recovery_lab",
+      "cleaned_apple_supply_chain_sabih_khan"
+    ],
+    "1": [
+      "cleaned_apple_supply_chain_ilo",
+      "cleaned_apple_supply_chain_iom",
+      "cleaned_apple_supply_chain_sedf",
+      "cleaned_apple_supply_chain_swift_coding_program"
+    ],
+    "2": [
+      "cleaned_apple_supply_chain_apple_education_hub",
+      "cleaned_apple_supply_chain_zhejiang_university"
+    ]
+  },
+  "cohesion": {
+    "0": 0.4,
+    "1": 0.5,
+    "2": 1.0
+  },
+  "gods": [
+    {
+      "id": "cleaned_apple_supply_chain_apple",
+      "label": "Apple Inc.",
+      "degree": 5
+    },
+    {
+      "id": "cleaned_apple_supply_chain_sedf",
+      "label": "Supplier Employee Development Fund (SEDF)",
+      "degree": 4
+    },
+    {
+      "id": "cleaned_apple_supply_chain_sabih_khan",
+      "label": "Sabih Khan",
+      "degree": 1
+    },
+    {
+      "id": "cleaned_apple_supply_chain_daisy",
+      "label": "Daisy (Disassembly Robot)",
+      "degree": 1
+    },
+    {
+      "id": "cleaned_apple_supply_chain_apple_supplier_code_of_conduct",
+      "label": "Apple Supplier Code of Conduct",
+      "degree": 1
+    },
+    {
+      "id": "cleaned_apple_supply_chain_ilo",
+      "label": "International Labour Organization (ILO)",
+      "degree": 1
+    },
+    {
+      "id": "cleaned_apple_supply_chain_iom",
+      "label": "International Organization for Migration (IOM)",
+      "degree": 1
+    },
+    {
+      "id": "cleaned_apple_supply_chain_zhejiang_university",
+      "label": "Zhejiang University",
+      "degree": 1
+    },
+    {
+      "id": "cleaned_apple_supply_chain_apple_education_hub",
+      "label": "Apple Education Hub",
+      "degree": 1
+    },
+    {
+      "id": "cleaned_apple_supply_chain_material_recovery_lab",
+      "label": "Apple Material Recovery Lab",
+      "degree": 1
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Apple Inc.",
+      "target": "Supplier Employee Development Fund (SEDF)",
+      "source_files": [
+        "cleaned_apple_supply_chain.txt",
+        "cleaned_apple_supply_chain.txt"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "note": "Bridges community 0 \u2192 community 1"
+    }
+  ],
+  "tokens": {
+    "input": 4150,
+    "output": 2176
+  }
+}

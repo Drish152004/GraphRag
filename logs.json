@@ -1,0 +1,274 @@
+[
+    {
+        "timestamp": "2026-05-15 20:45:55.918468",
+        "original_query": "What sustainability initiatives are associated with Apple Inc.?",
+        "sanitized_query": "What sustainability initiatives are associated with Apple Inc.?",
+        "retrieval_query": "what sustainability initiatives are associated with apple inc.?",
+        "detected_entities": [
+            "Apple Inc."
+        ],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, Apple Inc. is associated with the following sustainability initiatives:\n\n1. Apple Material Recovery Lab\n2. Apple Supplier Code of Conduct\n3. Daisy (Disassembly Robot) \n\nThese initiatives are related to Apple Inc. through the IMPLEMENTS, USES, and RELATED_TO relationships in the graph context."
+    },
+    {
+        "timestamp": "2026-05-15 20:46:15.429242",
+        "original_query": "Explain the purpose of Daisy in Apple\u2019s supply chain.",
+        "sanitized_query": "Explain the purpose of Daisy in Apple\u2019s supply chain.",
+        "retrieval_query": "explain the purpose of daisy in apple\u2019s supply chain.",
+        "detected_entities": [],
+        "retrieval_mode": "vector",
+        "answer": "Information about \"Daisy\" is missing from the retrieved context."
+    },
+    {
+        "timestamp": "2026-05-15 21:48:04.740649",
+        "original_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "sanitized_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "retrieval_query": "explain the purpose of daisy in apple\u2019s supply chain",
+        "detected_entities": [],
+        "retrieval_mode": "vector",
+        "answer": "Missing information. The retrieved context does not mention \"Daisy\" in Apple's supply chain."
+    },
+    {
+        "timestamp": "2026-05-15 21:48:19.435032",
+        "original_query": "What programs has Apple introduced for responsible sourcing?",
+        "sanitized_query": "What programs has Apple introduced for responsible sourcing?",
+        "retrieval_query": "what programs has apple introduced for responsible sourcing?",
+        "detected_entities": [
+            "Apple Inc."
+        ],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, Apple Inc. has introduced the following programs for responsible sourcing:\n\n1. Apple Supplier Code of Conduct (which they implement)\n2. Supplier Employee Development Fund (SEDF) (which they are related to)\n3. Apple Material Recovery Lab (which they are related to)\n\nNote: The context does not provide a comprehensive list, so there may be other programs not mentioned here."
+    },
+    {
+        "timestamp": "2026-05-15 21:48:49.951403",
+        "original_query": "Explain the purpose of Daisy in Apple\u2019s supply chain.",
+        "sanitized_query": "Explain the purpose of Daisy in Apple\u2019s supply chain.",
+        "retrieval_query": "explain the purpose of daisy in apple\u2019s supply chain.",
+        "detected_entities": [],
+        "retrieval_mode": "vector",
+        "answer": "Missing information. The retrieved context does not mention \"Daisy\" in Apple's supply chain."
+    },
+    {
+        "timestamp": "2026-05-15 21:49:12.473572",
+        "original_query": "Which organizations are connected to Apple through supplier programs",
+        "sanitized_query": "Which organizations are connected to Apple through supplier programs",
+        "retrieval_query": "which organizations are connected to apple through supplier programs",
+        "detected_entities": [],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, the following organizations are connected to Apple through supplier programs:\n\n1. Suppliers: Apple's suppliers, their subsidiaries, affiliates, subcontractors, and sub-tier suppliers are all connected to Apple.\n2. Manufacturing partners: Companies that manufacture Apple products are part of the supply chain.\n3. Logistics partners: Companies that support Apple's logistics are connected to Apple.\n4. Content and support service providers: Companies that provide content and support services to Apple are part of the supply chain.\n5. Recycling partners: Companies that recycle Apple products are connected to Apple.\n6. Raw material providers: Companies that provide raw materials to Apple's suppliers are part of the supply chain.\n\nThese organizations are connected to Apple through various supplier programs, including SupplierCare, which allows suppliers to track their assessment results, develop corrective action plans, and access educational content."
+    },
+    {
+        "timestamp": "2026-05-15 21:57:09.694177",
+        "original_query": "daisy is apple disassembly robot but explain this in detail",
+        "sanitized_query": "daisy is apple disassembly robot but explain this in detail",
+        "retrieval_query": "daisy is apple disassembly robot but explain this in detail",
+        "detected_entities": [
+            "Daisy (Disassembly Robot)",
+            "Apple Inc."
+        ],
+        "retrieval_mode": "vector",
+        "answer": "Based on the retrieved context, Daisy is Apple's iPhone disassembly robot. It is used to disassemble and recover materials from iPhones at the end of their useful life. The robot is part of Apple's material recovery efforts and is mentioned in multiple chunks with a high similarity score. \n\nSpecifically, the chunks mention that Daisy is used to recover materials such as aluminum, and that the recovered materials can be recycled and reused. The chunks also mention that Apple works with its suppliers to disassemble and recover materials, and that Daisy is a key part of this process. \n\nHowever, detailed technical specifications or capabilities of Daisy are not provided in the retrieved context."
+    },
+    {
+        "timestamp": "2026-05-15 21:57:36.179517",
+        "original_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "sanitized_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "retrieval_query": "explain the purpose of daisy in apple\u2019s supply chain",
+        "detected_entities": [],
+        "retrieval_mode": "vector",
+        "answer": "Information about \"Daisy\" is missing in the retrieved context."
+    },
+    {
+        "timestamp": "2026-05-15 22:03:43.308027",
+        "original_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "sanitized_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "retrieval_query": "explain the purpose of daisy in apple\u2019s supply chain",
+        "detected_entities": [],
+        "retrieval_mode": "vector",
+        "answer": "Information about \"Daisy\" is missing in the retrieved context."
+    },
+    {
+        "timestamp": "2026-05-15 22:41:20.835303",
+        "original_query": "explain what is the purpose of daisy in apples supply chain",
+        "sanitized_query": "explain what is the purpose of daisy in apples supply chain",
+        "retrieval_query": "explain the purpose of daisy in apples supply chain",
+        "detected_entities": [],
+        "retrieval_mode": "vector",
+        "answer": "Based on the retrieved context, the purpose of Daisy in Apple's supply chain is related to iPhone disassembly. Daisy is described as an \"iPhone disassembly robot\" located in the United States, and it is mentioned in the context of customer support. However, the exact details of its purpose and how it contributes to the supply chain are not fully explained in the provided context."
+    },
+    {
+        "timestamp": "2026-05-15 22:41:46.750740",
+        "original_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "sanitized_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "retrieval_query": "Explain the purpose of Daisy in Apple\u2019s supply chain",
+        "detected_entities": [
+            "Explain",
+            "Daisy (Disassembly Robot)"
+        ],
+        "retrieval_mode": "vector",
+        "answer": "Information about \"Daisy\" is missing in the retrieved context."
+    },
+    {
+        "timestamp": "2026-05-15 22:42:13.601180",
+        "original_query": "How does Apple improve supplier employee development",
+        "sanitized_query": "How does Apple improve supplier employee development",
+        "retrieval_query": "Apple improve supplier employee development",
+        "detected_entities": [
+            "How",
+            "Supplier Employee Development Fund (SEDF)"
+        ],
+        "retrieval_mode": "hybrid",
+        "answer": "Apple improves supplier employee development through various initiatives, including:\n\n* The Apple Supplier Employee Development Fund\n* Building technical skills to unlock new pathways\n* Providing ongoing training and capability building focused on best practices\n* Offering virtual learning materials and access to Apple subject matter experts (SMEs) through SupplierCare\n* Developing a mental health management toolkit to support suppliers in providing better mental health support to their employees."
+    },
+    {
+        "timestamp": "2026-05-15 22:42:34.366730",
+        "original_query": "What technologies are associated with Apple\u2019s supply chain operations",
+        "sanitized_query": "What technologies are associated with Apple\u2019s supply chain operations",
+        "retrieval_query": "What technologies are associated with Apple\u2019s supply chain operations",
+        "detected_entities": [],
+        "retrieval_mode": "graph",
+        "answer": "Missing information. The provided context does not mention specific technologies associated with Apple's supply chain operations."
+    },
+    {
+        "timestamp": "2026-05-15 22:43:01.910179",
+        "original_query": "Explain Apple Material Recovery Lab.",
+        "sanitized_query": "Explain Apple Material Recovery Lab.",
+        "retrieval_query": "Explain Apple Material Recovery Lab.",
+        "detected_entities": [
+            "Apple Material Recovery Lab",
+            "Explain",
+            "International Labour Organization (ILO)"
+        ],
+        "retrieval_mode": "vector",
+        "answer": "Based on the vector context, Apple Material Recovery Lab (MRL) is a facility located in Austin, Texas, that develops and operationalizes new recycling technologies and processes to maximize the recovery of key materials. It is part of Apple's effort to innovate and improve recycling capabilities, not just for Apple products but for the entire industry. The MRL is also a site for visiting and learning about Apple's state-of-the-art recycling technology, as mentioned in chunk_39."
+    },
+    {
+        "timestamp": "2026-05-15 22:44:29.134828",
+        "original_query": "What sustainability initiatives are associated with Apple Inc.",
+        "sanitized_query": "What sustainability initiatives are associated with Apple Inc.",
+        "retrieval_query": "What sustainability initiatives are associated with Apple Inc.",
+        "detected_entities": [
+            "Apple Inc."
+        ],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, Apple Inc. is associated with the following sustainability initiatives:\n\n* Apple 2030: a commitment to reduce scope 1, 2, and 3 emissions by 75% by 2030\n* Supplier Clean Energy Program\n* Supplier Energy Efficiency Program\n* Use of recycled and renewable materials\n* Investment in high-quality carbon removal solutions\n* Partnership with ChemFORWARD to support the development and use of safer chemicals\n\nThese initiatives are mentioned in the vector context chunks 262, 58, 43, 41, which highlight Apple's environmental strategy, goals, and partnerships."
+    },
+    {
+        "timestamp": "2026-05-15 22:44:53.731046",
+        "original_query": "Which organizations are connected to Apple through supplier programs",
+        "sanitized_query": "Which organizations are connected to Apple through supplier programs",
+        "retrieval_query": "Which organizations are connected to Apple through supplier programs",
+        "detected_entities": [],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, the following organizations are connected to Apple through supplier programs:\n\n* Suppliers\n* Subsidiaries and affiliates of suppliers\n* Subcontractors and sub-tier suppliers providing goods or services to Apple, or for use in or with Apple products\n* Manufacturing and recycling partners\n* Companies that support Apple's logistics, content, and support services\n* Companies that provide raw materials to Apple's suppliers\n\nThese organizations are part of Apple's global supply chain, which spans over 50 countries and regions, and includes thousands of businesses and millions of people."
+    },
+    {
+        "timestamp": "2026-05-15 22:45:11.135066",
+        "original_query": "What recycled materials does Apple aim to use in iPhones?",
+        "sanitized_query": "What recycled materials does Apple aim to use in iPhones?",
+        "retrieval_query": "What recycled materials does Apple aim to use in iPhones?",
+        "detected_entities": [],
+        "retrieval_mode": "hybrid",
+        "answer": "Based on the retrieved context, Apple aims to use the following recycled materials: \n- 100 percent recycled cobalt in all Apple-designed batteries\n- 100 percent recycled rare earth elements in magnets\n- 100 percent recycled tin soldering and gold plating in all Apple-designed printed circuit boards."
+    },
+    {
+        "timestamp": "2026-05-15 22:45:21.294220",
+        "original_query": "How does Apple improve supplier employee development?",
+        "sanitized_query": "How does Apple improve supplier employee development?",
+        "retrieval_query": "Apple improve supplier employee development?",
+        "detected_entities": [
+            "How",
+            "Supplier Employee Development Fund (SEDF)"
+        ],
+        "retrieval_mode": "hybrid",
+        "answer": "Apple improves supplier employee development through the Apple Supplier Employee Development Fund, which focuses on building technical skills to unlock new pathways. Additionally, Apple provides ongoing training and capability building for suppliers, including virtual learning materials on SupplierCare, access to Apple subject matter experts, and onsite coaching. This is evident from chunks 27, 100, and 318, which highlight Apple's efforts to enhance supplier employee development and compliance with their Code and Standards."
+    },
+    {
+        "timestamp": "2026-05-15 22:45:30.925322",
+        "original_query": "Explain Apple Material Recovery Lab.",
+        "sanitized_query": "Explain Apple Material Recovery Lab.",
+        "retrieval_query": "Explain Apple Material Recovery Lab.",
+        "detected_entities": [
+            "Apple Material Recovery Lab",
+            "Explain",
+            "International Labour Organization (ILO)"
+        ],
+        "retrieval_mode": "vector",
+        "answer": "Based on the vector context, Apple Material Recovery Lab (MRL) is a facility located in Austin, Texas, that develops and operationalizes new recycling technologies and processes to maximize the recovery of key materials. It is part of Apple's effort to innovate and realize the potential of recycling, not just for Apple products but throughout the industry. The MRL is also a site for visiting and learning about Apple's state-of-the-art recycling technology, as mentioned in chunk_39."
+    },
+    {
+        "timestamp": "2026-05-15 22:45:44.192670",
+        "original_query": "Which entities are related to the Supplier Employee Development Fund?",
+        "sanitized_query": "Which entities are related to the Supplier Employee Development Fund?",
+        "retrieval_query": "Which entities are related to the Supplier Employee Development Fund?",
+        "detected_entities": [
+            "Supplier Employee Development Fund (SEDF)"
+        ],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, the following entities are related to the Supplier Employee Development Fund (SEDF):\n\n1. Apple (creator of SEDF)\n2. Suppliers (recipients of SEDF investments and programs)\n3. Supplier employees (beneficiaries of SEDF programs, including education and training)\n4. SupplierCare (platform for distributing virtual learning materials)\n\nThese entities are connected through the SEDF, which aims to empower supplier employees and improve standards and programs in the supply chain."
+    },
+    {
+        "timestamp": "2026-05-15 22:45:53.026723",
+        "original_query": "What programs has Apple introduced for responsible sourcing?",
+        "sanitized_query": "What programs has Apple introduced for responsible sourcing?",
+        "retrieval_query": "What programs has Apple introduced for responsible sourcing?",
+        "detected_entities": [
+            "Apple Inc."
+        ],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, Apple has introduced the following programs for responsible sourcing:\n\n* SupplierCare: a program that allows suppliers to collaborate with Apple, track assessment results, develop corrective action plans, and access educational content to increase understanding of and compliance with Apple's Code and Standards.\n* Vocational Education for Persons with Disabilities program: a program that provides training and development opportunities for supplier employees with disabilities.\n* Swift coding program: a program that provides coding training and has led to the development and launch of apps by supplier employees on the App Store.\n* Responsible minerals sourcing program: a program that includes requirements for all levels of Apple's supply chain and empowers independent voices and local communities.\n* Partnership with Quizrr: a program that develops and scales localized training content for supplier employees and management on topics such as responsible recruitment practices and workplace rights."
+    },
+    {
+        "timestamp": "2026-05-15 23:54:48.237737",
+        "original_query": "What sustainability initiatives are associated with Apple Inc.",
+        "sanitized_query": "What sustainability initiatives are associated with Apple Inc.",
+        "retrieval_query": "What sustainability initiatives are associated with Apple Inc.",
+        "detected_entities": [
+            "Apple Inc."
+        ],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, Apple Inc. is associated with the following sustainability initiatives:\n\n* Apple 2030: a commitment to reduce scope 1, 2, and 3 emissions by 75% by 2030\n* Supplier Clean Energy Program\n* Supplier Energy Efficiency Program\n* Use of recycled and renewable materials\n* Investment in high-quality carbon removal solutions\n* Partnership with ChemFORWARD to support the development and use of safer chemicals\n\nThese initiatives are mentioned in the vector context chunks 262, 58, 43, 41, which highlight Apple's environmental strategy, goals, and partnerships."
+    },
+    {
+        "timestamp": "2026-05-15 23:54:59.156775",
+        "original_query": "What recycled materials does Apple aim to use in iPhones?",
+        "sanitized_query": "What recycled materials does Apple aim to use in iPhones?",
+        "retrieval_query": "What recycled materials does Apple aim to use in iPhones?",
+        "detected_entities": [],
+        "retrieval_mode": "hybrid",
+        "answer": "Based on the retrieved context, Apple aims to use the following recycled materials: \n- 100 percent recycled cobalt in all Apple-designed batteries\n- 100 percent recycled rare earth elements in magnets\n- 100 percent recycled tin soldering and gold plating in all Apple-designed printed circuit boards."
+    },
+    {
+        "timestamp": "2026-05-16 00:00:50.694607",
+        "original_query": "Explain what is the purpose of daisy in apples supply chain.",
+        "sanitized_query": "Explain what is the purpose of daisy in apples supply chain.",
+        "retrieval_query": "Explain the purpose of daisy in apples supply chain.",
+        "detected_entities": [
+            "Explain"
+        ],
+        "retrieval_mode": "vector",
+        "answer": "Based on the retrieved context, the purpose of \"Daisy\" in Apple's supply chain is related to iPhone disassembly. Specifically, Daisy is mentioned as \"Apples iPhone disassembly robot\" in the United States, suggesting that it plays a role in the recycling or disassembly process of iPhone products."
+    },
+    {
+        "timestamp": "2026-05-16 00:01:01.393457",
+        "original_query": "Which entities are related to the Supplier Employee Development Fund",
+        "sanitized_query": "Which entities are related to the Supplier Employee Development Fund",
+        "retrieval_query": "Which entities are related to the Supplier Employee Development Fund",
+        "detected_entities": [
+            "Supplier Employee Development Fund (SEDF)"
+        ],
+        "retrieval_mode": "graph",
+        "answer": "Based on the retrieved context, the following entities are related to the Supplier Employee Development Fund (SEDF):\n\n1. Apple: Created the $50 million SEDF to modernize and expand investment in programs serving supplier employees.\n2. Suppliers: SEDF is used to support suppliers in developing business-critical skills in their workforce.\n3. Supplier employees: SEDF provides opportunities for supplier employees to gain skills, including technical, professional, and health and wellness training."
+    },
+    {
+        "timestamp": "2026-05-16 00:01:21.785555",
+        "original_query": "what technologies does apple inc use to make iphones",
+        "sanitized_query": "what technologies does apple inc use to make iphones",
+        "retrieval_query": "what technologies does apple inc use to make iphones",
+        "detected_entities": [
+            "Apple Inc."
+        ],
+        "retrieval_mode": "hybrid",
+        "answer": "Based on the retrieved context, Apple Inc. uses the following technology to make iPhones: \n\n- Daisy (Disassembly Robot) \n\nNo other specific technologies are mentioned in the context. Information about other technologies used is missing."
+    }
+]

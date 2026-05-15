@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2026-05-15 18:38:31.422144",
+        "original_query": "what does apple use to build iphones",
+        "sanitized_query": "what does apple use to build iphones",
+        "retrieval_query": "what does apple use to build iphones",
+        "detected_entities": [],
+        "retrieval_mode": "vector",
+        "answer": "Based on the retrieved context, the information about the specific materials used by Apple to build iPhones is not explicitly stated. However, it is mentioned that Apple aims to use recycled and renewable materials, and some components such as metal enclosures, printed circuit boards, and cover glass are used in product assembly. Additionally, it is mentioned that Apple targets to use 100 percent recycled materials for certain components like cobalt, rare earth elements, tin soldering, and gold plating by the end of 2025."
+    }
+]
